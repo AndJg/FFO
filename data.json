@@ -1,0 +1,112 @@
+[
+    {
+        "genre": "Rock",
+        "inspiration": "Nirvana",
+        "mianInst": "guitar",
+        "Recommend": "artistY"
+      },
+      {
+        "genre": "Prog",
+        "mianInst": "guitar",
+        "inspiration": "Camel",
+        "Recommend": "artistX"
+      },
+      {
+        "genre": "Classical",
+        "mianInst": "piano",
+        "inspiration": "Karol Szymanowski",
+        "Recommend": "artistZ"
+      },
+      {
+        "genre": "Metal",
+        "mianInst": "guitar",
+        "inspiration": "Mgla",
+        "Recommend": "artistU"
+      },
+      {
+        "genre": "Prog",
+        "mianInst": "guitar",
+        "inspiration": "Death",
+        "Recommend": "artistX"
+      },
+      {
+        "genre": "Rock",
+        "mianInst": "guitar",
+        "inspiration": "Queen",
+        "Recommend": "artistE"
+      },
+      {
+        "genre": "Jazz",
+        "mianInst": "drums",
+        "inspiration": "Nina Simone",
+        "Recommend": "artistW"
+      },
+      {
+        "genre": "Rock",
+        "mianInst": "guitar",
+        "inspiration": "Queen",
+        "Recommend": "artistE"
+      },
+      {
+        "genre": "Rock",
+        "mianInst": "guitar",
+        "inspiration": "Red Hot Chili Peppers",
+        "Recommend": "artistP"
+      },
+      {
+        "genre": "Rock",
+        "mianInst": "guitar",
+        "inspiration": "Tool",
+        "Recommend": "artistI"
+      },
+      {
+        "genre": "Rock",
+        "mianInst": "vocal",
+        "inspiration": "Radiohead",
+        "Recommend": "artistU"
+      },
+      {
+        "genre": "Rock",
+        "mianInst": "vocal",
+        "inspiration": "Tool",
+        "Recommend": "artistI"
+      },
+      {
+        "genre": "Jazz",
+        "mianInst": "saxophone",
+        "inspiration": "John Coltrane",
+        "Recommend": "artistT"
+      },
+      {
+        "genre": "Classical",
+        "mianInst": "violin",
+        "inspiration": "Witold Lutoslawski",
+        "Recommend": "artistZ"
+      },
+      {
+        "genre": "Classical",
+        "mianInst": "piano",
+        "inspiration": "Frederic Chopin",
+        "Recommend": "artistZ"
+      },
+      {
+        "genre": "Classical",
+        "mianInst": "piano",
+        "inspiration": "Ludwig van Beethoven",
+        "Recommend": "artistZ"
+      },
+      {
+        "genre": "Classical",
+        "mianInst": "piano",
+        "inspiration": "Johann Sebastian Bach",
+        "Recommend": "artistZ"
+      },
+      {
+        "genre": "Classical",
+        "mianInst": "piano",
+        "inspiration": "Antonio Vivaldi",
+        "Recommend": "artistZ"
+      }
+      
+      
+ ]
